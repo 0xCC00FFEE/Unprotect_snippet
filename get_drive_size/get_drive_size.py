@@ -1,9 +1,5 @@
-import os
-import collections
 import ctypes
-import sys
 import math
-
 
 # Convert octets
 def convert_size(size_bytes):
