@@ -1,2 +1,2 @@
 # Unprotect_snippet
-Code snippet related to Unprotect Project
+Code snippets related to Unprotect Project
