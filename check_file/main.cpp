@@ -42,7 +42,7 @@ int CheckFile()
 
         if (FileExists(fname[i]))
             cout << " [+] File exist: " << (fname[i]) << endl;
-		else
+	else
             cout << " [-] File doesn't exist: " << (fname[i]) << endl;
 
     }
