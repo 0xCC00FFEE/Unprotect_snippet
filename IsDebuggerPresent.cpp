@@ -3,10 +3,9 @@
 
 int main(int argc, char** argv)
 {
-
 	if (IsDebuggerPresent())
 	{
-      printf("Debugger detected!!\n");
+            printf("Debugger detected!!\n");
 	}
 	else
 	{
